@@ -1,0 +1,7 @@
+body {
+  background-color: black;
+}
+.container {
+  background-size: contain;
+  background-repeat: no-repeat;
+}

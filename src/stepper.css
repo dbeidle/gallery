@@ -1,0 +1,24 @@
+.dots {
+  background-color: transparent;
+  display: flex;
+  padding: 8px;
+  background: rgba(0, 0, 0, 1);
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+  top: -32;
+}
+.dot {
+  color: rgba(252, 136, 3, 0.5);
+  width: 6px;
+  border: 1px solid black;
+  height: 6px;
+  margin: 0 1px;
+  border-radius: 50%;
+  background-color: rgba(252, 136, 3, 0.5);
+}
+
+.dotActive {
+  background-color: rgba(255, 0, 0, 1);
+}

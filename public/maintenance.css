@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  margin: unset;
+  background-color: black;
+  font-family: "Josefin Sans";
+  color: red;
+}
+
+.logo {
+  width: 50vw;
+}
